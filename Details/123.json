@@ -1,0 +1,12 @@
+{
+  "pluginname": "123",
+  "version": "V 1.0.0",
+  "developer": "123",
+  "cmd": {
+    "unzip123.zip": ["unzip","./123.zip","./123"],
+    "copy123.dll": ["copy","./123/test.go","./DownloadPage"],
+    "del123dir": ["del","./123"],
+    "del123": ["del","./123.zip"]
+  }
+}
+
