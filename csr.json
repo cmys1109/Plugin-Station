@@ -1,8 +1,0 @@
-{
-  "pluginname": "123",
-  "version": "V 1.0.0",
-  "developer": "123",
-  "cmd": [
-    "copy ./123.dll ./plugin",
-    "ECHO 123 Injected."]
-}
