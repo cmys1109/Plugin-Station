@@ -2,7 +2,6 @@
   "pluginname": "123",
   "version": "V 1.0.0",
   "developer": "123",
-  "cmd": {["unzip","./123.zip","./123"],["copy","./123/test.go","./DownloadPage/test.go"],["del","./123"],["del","./123.zip"]
-  }
+  "cmd": [["unzip","./123.zip","./123"],["copy","./123/test.go","./DownloadPage/test.go"],["del","./123"],["del","./123.zip"]]
 }
 
