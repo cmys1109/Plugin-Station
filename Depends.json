@@ -2,7 +2,7 @@
   "LiteXLoader": {
     "url": "LiteLDev/LiteXLoader",
     "level": 1,
-    "install_cmd": [["unzip","./LiteXLoader.zip","./plugins"]],
+    "install_cmd": [["unzip","./temp/LiteXLoader.zip","./plugins"]],
     "updates_cmd": []
   }
 }
