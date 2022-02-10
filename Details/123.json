@@ -7,6 +7,6 @@
     "2": ["asfa","fafee"]
   },
   "level": 2,
-  "install_cmd": [["unzip","./123.zip","./123"],["copy","./123/test.go","./DownloadPage/test.go"],["del","./123"],["del","./123.zip"]],
-  "update_cmd": [["unzip","./123.zip","./123"],["del","./DownloadPage/test.go"],["copy","./123/test.go","./DownloadPage/test.go"]]
+  "install_cmd": [["unzip","./temp/123.zip","./123"],["copy","./temp/123/test.go","./DownloadPage/test.go"],["del","./temp/123"],["del","./temp/123.zip"]],
+  "update_cmd": [["unzip","./temp/123.zip","./123"],["del","./DownloadPage/test.go"],["copy","./temp/123/test.go","./DownloadPage/test.go"]]
 }
