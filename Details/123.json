@@ -6,7 +6,7 @@
     "1": ["LiteXLoader"],
     "2": ["main.zip"]
   },
-  "level": 2,
+  "level": "2",
   "install_cmd": [["unzip","./temp/123.zip","./temp/123"],["copy","./temp/123/test.go","./DownloadPage/test.go"],["del","./temp/123"],["del","./temp/123.zip"]],
   "update_cmd": [["unzip","./temp/123.zip","./temp/123"],["del","./DownloadPage/test.go"],["copy","./temp/123/test.go","./DownloadPage/test.go"]]
 }
