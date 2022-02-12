@@ -3,8 +3,8 @@
   "version": "V 1.0.0",
   "developer": "123",
   "depends": {
-    "1": [],
-    "2": []
+    "depends": [],
+    "plugins": []
   },
   "level": 2,
   "install_cmd": [["unzip","./temp/main.zip","./temp/main"],["copy","./temp/main/main.go","./DownloadPage/main.go"],["del","./temp/main"],["del","./temp/main.zip"]],

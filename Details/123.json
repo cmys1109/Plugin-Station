@@ -3,8 +3,8 @@
   "version": "V 1.0.0",
   "developer": "123",
   "depends": {
-    "1": ["LiteXLoader"],
-    "2": ["main.zip"]
+    "depends": ["LiteXLoader"],
+    "plugins": ["main.zip"]
   },
   "level": 2,
   "install_cmd": [["unzip","./temp/123.zip","./temp/123"],["copy","./temp/123/test.go","./DownloadPage/test.go"],["del","./temp/123"],["del","./temp/123.zip"]],
