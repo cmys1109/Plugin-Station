@@ -4,5 +4,10 @@
     "level": 1,
     "install_cmd": [["unzip","./temp/LiteXLoader.zip","./temp"],["copydir","./temp/LiteXLoader","./plugins"],["del","./temp/LiteXLoader"],["del","./temp/LiteXLoader.zip"]],
     "updates_cmd": []
+  },
+  "PSS": {
+    "url": "cmys1109/Plugin_Station_Standard",
+    "level": 1,
+    "install_cmd": [["syscmd","mkdir ./PSSTest"]]
   }
 }
