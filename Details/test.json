@@ -1,0 +1,12 @@
+{
+  "pluginname": "test",
+  "version": "V 1.0.0",
+  "developer": "123",
+  "depends": {
+    "depends": [],
+    "plugins": []
+  },
+  "level": 2,
+  "install_cmd": [["unzip","./temp/main.zip","./temp/main"],["copy","./temp/main/main.go","./DownloadPage/main.go"],["del","./temp/main"],["del","./temp/main.zip"]],
+  "update_cmd": [["unzip","./temp/main.zip","./temp/123"],["del","./DownloadPage/test.go"],["copy","./temp/123/test.go","./DownloadPage/test.go"]]
+}
